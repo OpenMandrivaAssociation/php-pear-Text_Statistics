@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.0.1
-Release:	5
+Release:	6
 Summary:	Compute readability indexes for documents
 License:	PHP License
 Group:		Development/PHP
