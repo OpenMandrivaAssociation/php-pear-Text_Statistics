@@ -8,7 +8,7 @@ Release:	6
 Summary:	Compute readability indexes for documents
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Text_Statistics/
+URL:		https://pear.php.net/package/Text_Statistics/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
